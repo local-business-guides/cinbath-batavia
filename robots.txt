@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/cinbath-batavia/sitemap.xml
+Sitemap: https://local-business-guides.github.io/cinbath-batavia/news-sitemap.xml

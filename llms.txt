@@ -20,6 +20,9 @@
 - [Remodeler Batavia for Bathroom Renovation Planning](https://local-business-guides.github.io/cinbath-batavia/remodeler-batavia/): Remodeler Batavia homeowners can ask about bathroom updates, tile, and storage. Call CinBath in Batavia, OH to discuss the right scope for your home.
 - [Tile contractor Batavia for Bathroom Projects](https://local-business-guides.github.io/cinbath-batavia/tile-contractor-batavia/): Tile contractor Batavia homeowners can plan bathroom tile updates with CinBath, from floors to showers. Call us today to discuss your project.
 
+## Newsroom
+- [CinBath Shares Walk In Shower Cincinnati Guide and New Media](https://local-business-guides.github.io/cinbath-batavia/news/2026-11-20-cinbath-shares-walk-in-shower-cincinnati-guide-and/): CinBath has published a guide, YouTube video and podcast episode about walk-in showers for Cincinnati-area homeowners. (2026-11-20)
+
 ## Pages
 - [Walk In Shower Cincinnati in Batavia, Ohio](https://local-business-guides.github.io/cinbath-batavia/): Plan a bathroom that feels more comfortable and works better for your Batavia home with CinBath. Call +1513-613-3184.
 - [About CinBath in Batavia](https://local-business-guides.github.io/cinbath-batavia/about/): About CinBath, Batavia.
@@ -27,4 +30,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/cinbath-batavia/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/cinbath-batavia/news/rss.xml)
 - [Main resource site](https://cinbath-batavia-showers.localwebsites.chatgpt.site)
